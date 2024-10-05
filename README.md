@@ -54,6 +54,6 @@ Command-Line Arguments
 
 ##License
 
-This project is licensed under the MIT License. Please refer to the ([License](LICENSE) file for details.
+This project is licensed under the MIT License. Please refer to the [License](LICENSE) file for details.
 ##Disclamer
 The authors are not responsible for any misuse of this tool. Use it at your own risk.
